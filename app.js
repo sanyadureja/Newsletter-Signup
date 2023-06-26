@@ -5,6 +5,9 @@ app.use(bodyParser.urlencoded({extended:true}));
 const request=require("request");
 const https=require("https");
 
+const apiKey = process.env.MAILCHIMP_API_KEY;
+const listId = process.env.MAILCHIMP_LIST_ID;
+
 app.use(express.static("public"));
 
 app.get("/",function(req,res){
