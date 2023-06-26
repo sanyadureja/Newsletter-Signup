@@ -1,5 +1,12 @@
-# Newsletter Signup
 Newsletter signup is a feature implemented using Node.js, Express.js, Mailchimp API, HTML, CSS, JavaScript, and Bootstrap. It allows users to subscribe to a newsletter by providing their name and email address. 
+
+<img width="911" alt="signup" src="https://github.com/sanyadureja/Newsletter-Signup/assets/84080312/903dd3f2-46d9-4871-877f-f1dea64ea53d">
+
+<img width="911" alt="success" src="https://github.com/sanyadureja/Newsletter-Signup/assets/84080312/97ea3bf7-0398-4add-8270-c9da8795bb75">
+
+<img width="822" alt="failure" src="https://github.com/sanyadureja/Newsletter-Signup/assets/84080312/d4c543fe-6c13-48d7-8b60-a82a3d5ce467">
+
+
 
 # Technologies Used
 1. Node.js: Backend JavaScript runtime environment
