@@ -35,7 +35,7 @@ app.post("/",function(req,res){
 
     const options={
         method: "POST",
-        auth: "sanya:83a71a42588026af19278f5b0dd81603-us21"
+        auth: "sanya:c8771e19decec59cb4719b67f0e16f57-us21"
     }
 
     const mailchimpRequest= https.request(url,options,function(response){
@@ -70,6 +70,3 @@ app.listen(process.env.PORT || 3000,function(){
     console.log("Server is running.");
 });
 
-
-//apiKey- 83a71a42588026af19278f5b0dd81603-us21
-//list id- fba620d19c
